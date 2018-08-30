@@ -1,0 +1,83 @@
+.link {
+  font-weight: 400;
+  letter-spacing: 0.2rem;
+  font-size: 1.3rem;
+}
+
+.btn {
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.btn {
+  &:focus {
+    outline: 0px solid transparent;
+}
+@media(max-width: 991px){
+  min-width: 142px;
+}
+  font-size: 14px;
+  min-width: 160px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  padding: 12px 0;
+
+
+  &.btn-main {
+    background: none;
+    border: 2px solid darken(white, 6%);
+    transition: 200ms all ease-in;
+    &:hover{
+      background: #fff;
+      color: $color1;
+    }
+
+    &:before {
+      background-color: darken($color1, 6%);
+    }
+  }
+  &.btn-hero {
+    background: $color1;
+    border: 2px solid darken($color1, 6%);
+    margin-top: 0px;
+
+
+    &:before {
+      background-color: darken($color1, 6%);
+    }
+  }
+  &.btn-hero-contact {
+    background: $color1;
+    border: 2px solid darken($color1, 6%);
+    width: 100%;
+    @media(min-width: 992px){
+      margin-top: 0;
+
+    }
+
+    &:before {
+      background-color: darken($color1, 6%);
+    }
+  }
+  &.btn-contact {
+    background: $color1;
+    border: 2px solid darken($color1, 6%);
+    width: 100%;
+    margin-top: 0px;
+
+    &:before {
+      background-color: darken($color1, 6%);
+    }
+  }
+
+  &.btn-second {
+    background: $color2;
+    border: 2px solid darken($color2, 6%);
+
+    &:before {
+      background-color: darken($color2, 6%);
+    }
+  }
+
+}

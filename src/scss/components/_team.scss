@@ -1,0 +1,66 @@
+
+.member {
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px;
+  width: 210px;
+  text-align: center;
+
+  .img {
+    width: 164px;
+    height: 164px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto 15px;
+    background-size: cover;
+    background-position: top center;
+    background-repeat:no-repeat;
+    transition: filter .2s ease;
+
+
+    .overlay {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      left: 0;
+      top: 0;
+      border-radius: 50%;
+      text-align: center;
+      opacity: 0;
+      background-color: rgba(106, 103, 246, 0.5);
+      transition: opacity .2s ease;
+      cursor: default;
+
+      a {
+        cursor: pointer;
+        font-size:3rem;
+        display: inline-block;
+        margin: 70px 10px auto;
+        color: white;
+        text-decoration: none;
+
+        &:hover {
+          opacity: .5;
+        }
+      }
+
+      &.active {
+        opacity: 1;
+      }
+    }
+  }
+
+  .name {
+    color: darken(#7F8FA4, 20%);
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .info {
+
+    color: #7F8FA4;
+    font-size: 1.4rem;
+    margin-top: 1px;
+  }
+}
