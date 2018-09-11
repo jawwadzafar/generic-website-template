@@ -1,16 +1,19 @@
-#  ICO Token Sale Website
+#  ICO Token Sale Website Template
 
 ### See the template [DEMO](https://jawwadzafar.github.io/ico-website-template/)
 
+## Setup!
 Install dependencies
-`npm install`
+`npm i`
 
-and then run
+and then* run `gulp`
 
-`gulp`
+(*gulp should be installed globally `npm i -g gulp`)
 
-(gulp should be installed globally `npm install -g gulp`)
-
+## Contribute?
+* Fork it!
+* Improve it!
+* Pull Request!
 
 
 **kbye!!**
