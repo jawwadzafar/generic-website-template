@@ -5,12 +5,12 @@
 }
 
 p {
-  font-size: 1.8rem;
+  // font-size: 1.8rem;
   font-weight: 300;
 }
 
 .heading-main {
-  font-size: 5rem;
+  // font-size: 5rem;
   font-weight: 700;
   color: #354052;
 
@@ -26,7 +26,7 @@ p {
 }
 
 .heading-secondary {
-  font-size: 3.6rem;
+  // font-size: 3.6rem;
   color: #354052;
 
   &.white {
@@ -41,7 +41,7 @@ p {
 }
 
 .heading-third {
-  font-size: 2.6rem;
+  // font-size: 2.6rem;
   color: #354052;
 
   &.white {
@@ -50,7 +50,7 @@ p {
 }
 
 .heading-fourth {
-  font-size: 1.6rem;
+  // font-size: 1.6rem;
   color: #354052;
 
   &.white {
@@ -65,8 +65,8 @@ p {
     color: #fff;
   }
 
-  font-size: 1.8rem;
-  line-height: 3rem;
+  // font-size: 1.8rem;
+  // line-height: 3rem;
   padding-top: 2rem;
 
   @media(max-width: 991px) {
@@ -106,7 +106,7 @@ p {
 
 .paragraph-second {
   color: #7F8FA4;
-  font-size: 1.4rem;
+  // font-size: 1.4rem;
 
   &.white {
     color: #fff;

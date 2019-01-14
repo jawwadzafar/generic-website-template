@@ -79,13 +79,13 @@
   transition: all 0.3s ease-in-out;
 }
 
-.navbar-brand {
-  float: left;
-  height: 0;
-  padding: 0;
-  font-size: 18px;
-  line-height: 20px;
-}
+// .navbar-brand {
+//   float: left;
+//   height: 0;
+//   padding: 0;
+//   font-size: 18px;
+//   line-height: 20px;
+// }
 
 .nav > li > a {
   color: #fff;
@@ -228,7 +228,7 @@
       margin: 0 20px 20px;
       width: 40px;
       height: 40px;
-      font-size: 4.0rem;
+      font-size: 2.4rem;
       color: $heading;
       vertical-align: middle;
       transition: 100ms all ease-in;
@@ -294,7 +294,7 @@
 
     p {
       color: #7F8FA4;
-      font-size: 1.4rem;
+      // font-size: 1.4rem;
       margin-top: 1px;
 
       &.heading {

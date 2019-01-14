@@ -1,10 +1,10 @@
 /*!
- * ico
- * ico
+ * gulpbootstrapboilerplate
+ * Simple Gulp Bootstrap BoilerPlate
  * 
- * @author Jawwad Zafar <zafarjawwad@gmail.com>
- * @version 1.0.0
- * Copyright 2018. MIT licensed.
+ * @author Jawwad Zafar
+ * @version 1.0.5
+ * Copyright 2019. MIT licensed.
  */
 // scroll smoother
 $('a.navtext').click(function() {

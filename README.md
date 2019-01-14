@@ -1,19 +1,17 @@
-#  ICO Token Sale Website Template
+#  SIMPLE GULP BOOTSTRAP BOILERPLATE
+##( By Jawwad Z)
 
-### See the template [DEMO](https://jawwadzafar.github.io/ico-website-template/)
-
-## Setup!
 Install dependencies
-`npm i`
+`npm install`
 
-and then* run `gulp`
+run
 
-(*gulp should be installed globally `npm i -g gulp`)
+`gulp`
 
-## Contribute?
-* Fork it!
-* Improve it!
-* Pull Request!
+(gulp should be installed globally `npm install -g gulp`)
 
 
-**kbye!!**
+License
+----
+
+MIT
