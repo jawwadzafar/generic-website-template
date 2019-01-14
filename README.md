@@ -1,17 +1,30 @@
-#  SIMPLE GULP BOOTSTRAP BOILERPLATE
+#  ICO Token Sale Website Template	#  SIMPLE GULP BOOTSTRAP BOILERPLATE
 ##( By Jawwad Z)
 
-Install dependencies
-`npm install`
 
-run
+ ### See the template [DEMO](https://jawwadzafar.github.io/ico-website-template/)	
 
-`gulp`
+ ## Setup!	
+Install dependencies	Install dependencies
+`npm i`	`npm install`
 
-(gulp should be installed globally `npm install -g gulp`)
+ run
 
 
-License
+ and then* run `gulp`	`gulp`
+
+
+ (*gulp should be installed globally `npm i -g gulp`)	(gulp should be installed globally `npm install -g gulp`)
+
+
+ ## Contribute?	
+* Fork it!	
+* Improve it!	
+* Pull Request!	
+
+
+ License
 ----
 
-MIT
+
+ **kbye!!**
