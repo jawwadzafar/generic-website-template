@@ -1,6 +1,6 @@
 /*!
- * gulpbootstrapboilerplate
- * Simple Gulp Bootstrap BoilerPlate
+ * genericwebsitetemplate
+ * genericwebsitetemplate
  * 
  * @author Jawwad Zafar
  * @version 1.0.5
